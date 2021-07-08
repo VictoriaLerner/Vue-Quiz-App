@@ -1,5 +1,5 @@
 # quiz
-
+A Vue.js quiz project 
 ## Project setup
 ```
 npm install
